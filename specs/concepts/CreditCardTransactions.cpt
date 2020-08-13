@@ -1,0 +1,12 @@
+Created by TESTINIUM on 8/13/2020
+
+This is a concept file with following syntax for each concept.
+# Kredi kartı bilgilerini doldurma işlemi
+* "a[class='accordion-title paymentType-1']" li elemente tıkla
+* "input[id='card-no']" li elemente "1234567812345678" değerini yaz
+* "input[id='holder-Name']" li elemente "Testinium QA" değerini yaz
+* "//span[text()='Ay']" li elemente xpath ile tıkla
+* "//span[text()='01']" li elemente xpath ile tıkla
+* "//span[text()='Yıl']" li elemente xpath ile tıkla
+* "//span[text()='2026']" li elemente xpath ile tıkla
+* "input[id='cvc']" li elemente "123" değerini yaz

@@ -1,0 +1,11 @@
+Created by TESTINIUM on 8/13/2020
+
+This is a concept file with following syntax for each concept.
+# Login İşlemi
+* "span[class='OldMyAccount-2BwAt'] " li elementin üzerine gel
+* "a[id='login']" li elemente tıkla
+* "input[id='txtUserName']" li elemente "testiniumdeneme123@gmail.com" değerini yaz
+* "input[id='txtPassword']" li elemente "1q2w3easD123" değerini yaz
+* "button[id='btnLogin']" li elemente tıkla
+* "5" saniye bekle
+* "span[class='OldMyAccount-2BwAt']" li elementin değeri "Hesabım" değeri ile uyuşuyor mu kontrol et

@@ -1,0 +1,19 @@
+Created by TESTINIUM on 8/13/2020
+
+This is a concept file with following syntax for each concept.
+# Ürün İşlemleri
+* "div[class='box product']" li elementlerden rastgele birinin text değerini kaydet ve elemente tıkla
+* "5" saniye bekle
+* Ürünün açıklama metnini csv dosyasına yaz
+* "h1[id='product-name']" li elementin text değerini kaydet
+* Ürünün texti ile detay sayfasındaki ürünün textini karşılaştır
+* "input[id='quantity']" li elementin attribute'ünü kaydet
+* "button[id='addToCart']" li elemente tıkla
+* Sepete eklerkenki div değişikliği kontrol et sonuca göre işlem yap
+* Detay sayfasındaki "input[class='quantity']" li elementin attribute'ünü kaydet
+* "button[class='increase']" li elemente tıkla
+* "2" saniye bekle
+* "button[class='increase']" li elemente tıkla
+* "2" saniye bekle
+* "div[class='total-price'] span" li elementin toplam tutarını csv dosyasına yaz
+* "//span[text()='Alışverişi Tamamla']" li elemente xpath ile tıkla

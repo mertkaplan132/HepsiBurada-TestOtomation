@@ -1,0 +1,17 @@
+Created by TESTINIUM on 8/13/2020
+
+This is a concept file with following syntax for each concept.
+# Adres Ekleme İşlemi
+* "a[class='link-type-two']" li elemente tıkla
+* "input[id='first-name']" li elemente "testinium" değerini yaz
+* "input[id='last-name']" li elemente "yeni adres" değerini yaz
+* "button[data-id='city']" li elemente tıkla
+* "//span[text()='İstanbul']" li elemente xpath ile tıkla
+* "button[data-id='town']" li elemente tıkla
+* "//span[text()='ÜSKÜDAR']" li elemente xpath ile tıkla
+* "button[data-id='district']" li elemente tıkla
+* "//span[text()='ACIBADEM']" li elemente xpath ile tıkla
+* "textarea[id='address']" li elemente "Akasya avm" değerini yaz
+* "input[id='address-name']" li elemente "İş adresi" değerini yaz
+* "input[id='phone']" li elemente "+905555550000" değerini yaz
+* "//span[text()='Adresi Kaydet']" li elemente xpath ile tıkla

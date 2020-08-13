@@ -1,0 +1,6 @@
+com\testinium\hb\test\base\BaseTest.class
+com\testinium\hb\test\page\AdressPage.class
+com\testinium\hb\test\page\ProductPage.class
+com\testinium\hb\test\page\HomePage.class
+com\testinium\hb\test\base\BasePage.class
+com\testinium\hb\test\page\LoginPage.class
